@@ -13,7 +13,7 @@ Xcode, Figma, Source tree, Github, Postman
 
 ## Мои проекты
 "Find and Go" - агрегатор каршеринга [посмотреть](https://github.com/Car-sharing-Mob-App-IOS/iOS)    
-"List-of-products" - меню ресторана  [посмотреть](https://github.com/LobanovaViktoria/List-of-products)
+"List-of-products" - меню ресторана  [посмотреть](https://github.com/LobanovaViktoria/List-of-products)      
 "Резюме" - [посмотреть](https://github.com/LobanovaViktoria/ResumeApp)     
 "Giphy" просмотр и скачивание гифок - [посмотреть](https://github.com/LobanovaViktoria/Giphy)     
 "FakeNFT" покупка NFT - [посмотреть](https://github.com/LobanovaViktoria/iOS-FakeNFT)    
