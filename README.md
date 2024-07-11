@@ -13,6 +13,6 @@ Xcode, Figma, Source tree, Github, Postman
 
 ## Мои проекты
 "Find and Go" - агрегатор каршеринга [посмотреть](https://github.com/Car-sharing-Mob-App-IOS/iOS)      
-"CryptoApp" криптовалютное приложение, которое загружает данные о ценах в реальном времени из API и использует основные данные для сохранения портфолио текущего пользователя - [посмотреть](https://github.com/LobanovaViktoria/CryptoApp)     
+"CryptoApp" - криптовалютное приложение, которое загружает данные о ценах в реальном времени из API [посмотреть](https://github.com/LobanovaViktoria/CryptoApp)     
 
 
