@@ -24,5 +24,5 @@ Xcode, Figma, Source tree, Github, Postman
 Приложение, которое загружает меню ресторана через API [(посмотреть)](https://github.com/LobanovaViktoria/List-of-products)        
 
 
-[остальные проекты](https://github.com/LobanovaViktoria?tab=repositories)      
+#### [остальные проекты](https://github.com/LobanovaViktoria?tab=repositories)      
 
